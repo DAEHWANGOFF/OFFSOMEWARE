@@ -1,0 +1,2 @@
+# OFFSOMEWARE
+랜섬웨어
